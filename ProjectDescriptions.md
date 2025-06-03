@@ -13,5 +13,9 @@ project 2--login page : coded it myself with help only from searching on google
          >debugging : In this project, I implemented "while" loops and "elif" logic statements, which was a challenge to debug as they were a foreign concept to me at the time, but over time I understood the concepts.
          >I created this project as a way to step into the world of cybersecurity as I noticed that the login page that we see daily on our social media accounts or other accounts is something that implements the 
           concept of security.
-         >I enjoyed coding this project as it allowed me to experience trial and error which I ultimately learnt more about the Python coding language, as well as the concept of security in login pages we find in 
-          websites.
+         >I enjoyed coding this project as it allowed me to experience trial and error which I ultimately learnt more about the Python coding language, as well as the concept of security in login pages we find in websites.
+          
+project 3--guessthenumber : messed around with logic and random() functions
+-learning points:
+         >entry-level for random() functions
+         >allowed me to really think what could be made to improve the game(how to make it more fun by increasing number upper limit etc.)
