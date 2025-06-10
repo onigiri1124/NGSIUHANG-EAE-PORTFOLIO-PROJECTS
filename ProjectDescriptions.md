@@ -19,3 +19,9 @@ project 3--guessthenumber : messed around with logic and random() functions
 -learning points:
          >entry-level for random() functions
          >allowed me to really think what could be made to improve the game(how to make it more fun by increasing number upper limit etc.)
+
+project 4--brute force password guesser : hands-on experience on what hacking could be like (brute force guessing passwords)
+-learning points:
+         >arrangement of logic code blocks
+         >patience is key (took quite some time to get it working as I intended it to)
+         >it is inefficient to brute force passwords if they have large amounts of letters in it
