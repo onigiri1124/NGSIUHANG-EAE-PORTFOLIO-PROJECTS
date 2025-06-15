@@ -24,4 +24,4 @@ project 4--brute force password guesser : hands-on experience on what hacking co
 -learning points:
          >arrangement of logic code blocks
          >patience is key (took quite some time to get it working as I intended it to)
-         >it is inefficient to brute force passwords if they have large amounts of letters in it
+         >it is inefficient to brute force passwords if they many characters are included
